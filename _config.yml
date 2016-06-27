@@ -1,0 +1,14 @@
+layout_spectrum: 0.7561353815253824
+typography_spectrum: 0.1706853376235813
+color:
+  brandStrength: 0.6552366246469319
+  lightness: 0.8016941037494689
+  saturation: 0.49804300093092024
+  rhythmicContrast: 0.7305964538827538
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Another
